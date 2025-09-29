@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Vishw Modi  
 
 💻 **Full-Stack & AI Developer | Seured ₹50,000 Grant for HealthVitals-AI Project **  
