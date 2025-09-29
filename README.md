@@ -40,6 +40,7 @@ Content-based movie recommender using NLP and cosine similarity.
 ---
 
 ### 🧰 Tech Stack
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
