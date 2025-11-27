@@ -11,12 +11,12 @@
 
 A full-stack healthcare platform combining **AI + user data** to generate personalized health reports.
 
-- 🧩 Built with **React.js**, **Python**, **TypeScript**, and **MySQL**  
+- 🧩 Built with **React Native - Expo** **React.js**, **Node.js**, **TypeScript**, **SupaBase** and **Appwrite**  
 - 🔐 Enabled secure authentication via **Clerk + JWT**  
-- 🧠 Integrated **Gemini API** for AI-driven diet plans and lifestyle recommendations  
+- 🧠 Integrated AI-driven diet plans and lifestyle recommendations  
 - 📊 Generated health reports with a **1–10 health score**, downloadable as PDFs  
 - 🌟 90%+ user satisfaction from 100+ active users  
-- 📱 Currently leading **mobile expansion** with the *CalTrack* nutrition tracker  
+- 📱 Currently leading **mobile expansion** with the *CalTrack* nutrition tracker  and *Daily Task* manager
 
 🔗• [GitHub Repo](https://github.com/Vishw-modi/SSIP_MOBILE_APP.git)
 
