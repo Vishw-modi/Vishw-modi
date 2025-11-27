@@ -11,7 +11,7 @@
 
 A full-stack healthcare platform combining **AI + user data** to generate personalized health reports.
 
-- 🧩 Built with **React Native - Expo** **React.js**, **Node.js**, **TypeScript**, **SupaBase** and **Appwrite**  
+- 🧩 Built with **React Native - Expo**, **React.js**, **Node.js**, **TypeScript**, **SupaBase** and **Appwrite**  
 - 🔐 Enabled secure authentication via **Clerk + JWT**  
 - 🧠 Integrated AI-driven diet plans and lifestyle recommendations  
 - 📊 Generated health reports with a **1–10 health score**, downloadable as PDFs  
